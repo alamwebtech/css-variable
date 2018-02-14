@@ -1,3 +1,8 @@
+
+#buttons-position{
+  text-align: center;
+  padding-top: 10%;
+}
 .btn {
   padding: 2rem 5rem;
   border: 2px solid var(--color, black);
