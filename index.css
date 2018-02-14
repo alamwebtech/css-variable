@@ -5,3 +5,8 @@
   font-size: 0.6em;
   border-radius: 2px;
 }
+.btn:hover {
+  cursor: pointer;
+  background: var(--color, black);
+  color: white;
+}
